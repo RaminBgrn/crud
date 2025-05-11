@@ -1,5 +1,5 @@
-import 'package:crud/fetch_user_screen.dart';
-import 'package:crud/sign_up_screen.dart';
+import 'package:crud/screen/fetch_user_screen.dart';
+import 'package:crud/screen/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 
 class MainWrapper extends StatelessWidget {
